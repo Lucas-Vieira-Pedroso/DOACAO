@@ -15,8 +15,12 @@ body{
     flex-direction: column;
     text-align: center;
     margin-inline: 800px;
-    border-radius: 5px;
+    border-radius: 10px;
+    border: solid black;
 }
 input{
-    width: 200px;
+    width: 270px;
+}
+select{
+    width: 270px;
 }
